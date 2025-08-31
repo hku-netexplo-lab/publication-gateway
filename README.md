@@ -10,10 +10,10 @@ This repository provides publication repos that are publicly available but are n
 **[NSDI'25]** ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development. 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/ByteDance-Seed/ByteCheckpoint)
 
-**[EuroSys'25]** HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis. 
+**[EuroSys'24]** HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis. 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/alibaba/hap)
 
-**[VLDB'25]** Heta: Distributed Training of Heterogeneous Graph Neural Networks
+**[VLDB'24]** Heta: Distributed Training of Heterogeneous Graph Neural Networks
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/jasperzhong/heta)
 
 **[TNSM]** Dynamic Flow Scheduling for DNN Training Workloads in Data Centers
@@ -30,10 +30,10 @@ This repository provides publication repos that are publicly available but are n
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/bytedance/QSync)
 
 
-**[Mlsys]** Adaptive Message Quantization and Parallelization for Distributed Full-graph GNN Training
+**[Mlsys'23]** Adaptive Message Quantization and Parallelization for Distributed Full-graph GNN Training
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/raywan-110/AdaQP)
 
-**[NSDI‘23]** BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing
+**[NSDI'23]** BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/leodestiny/BGL_NSDI2023)
 
 
